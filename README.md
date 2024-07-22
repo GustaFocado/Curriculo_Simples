@@ -1,7 +1,8 @@
-<h1>Portfolio</h1>
+<h1>Curriculo Simples </h1>
 
 <h2>🚀 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.
+Um curriculo simples feito com HTML/CSS e JavaScript</p>
 
 ## 👨‍💻 Tecnologias
 <div>
